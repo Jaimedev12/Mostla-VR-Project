@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.aprendiendo.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Users\\Temporal\\Documents\\GitHub\\Mostla-VR-Project\\Aprendiendo\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Aprendiendo [Testing]"
+        }
+      }
+    }
+  ]
+}

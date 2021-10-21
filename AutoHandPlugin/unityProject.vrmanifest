@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.autohandplugin.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Users\\Temporal\\Documents\\GitHub\\Mostla-VR-Project\\AutoHandPlugin\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "AutoHandPlugin [Testing]"
+        }
+      }
+    }
+  ]
+}
